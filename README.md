@@ -35,3 +35,4 @@
         Option "AccelMethod" "uxa"
         Option "TearFree" "true" 
     EndSection
+## Finally, I giveup.
